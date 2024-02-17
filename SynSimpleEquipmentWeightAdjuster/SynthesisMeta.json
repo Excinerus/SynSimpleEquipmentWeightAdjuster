@@ -1,0 +1,11 @@
+{
+  "Nickname": "Simple Equipment Weight Adjuster",
+  "Visibility": "Visible",
+  "OneLineDescription": "Applies multipliers to Shields and Weapons weights",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
